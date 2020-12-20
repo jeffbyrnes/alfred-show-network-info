@@ -37,7 +37,7 @@
     "alfy": "^0.7.0",
     "default-gateway": "^2.7.0",
     "internal-ip": "^3.0.1",
-    "local-devices": "^1.0.5",
+    "local-devices": "^3.0.0",
     "public-ip": "^2.4.0"
   },
   "devDependencies": {}
